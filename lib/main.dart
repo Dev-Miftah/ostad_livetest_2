@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ostad_livetest_2/prifile_screen.dart';
+import 'package:ostad_livetest_2/screens/prifile_screen.dart';
 
 void main() {
   runApp(const MyApp());
